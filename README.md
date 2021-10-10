@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Navid
 - 👀 I’m interested in Android Development with Java, Kotlin and also AWS Cloud Architecture and Development.
-- 💞️ I’m looking to collaborate on Android and AWS Cloud projects.
+- 💞️ I’m looking to collaborate on AWS Cloud projects.
 - 📫 How to reach me : This is my email address : navid_ghanian@yahoo.com
 
 <!---
