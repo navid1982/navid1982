@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Navid
-- 👀 I’m interested in Java, AWS CloudDevOps and AWS Cloud Architecture.
+- 👀 I’m interested in Java, AWS Cloud DevOps and AWS Cloud Architecture.
 - 💞️ I’m looking to collaborate on AWS Cloud projects.
 - 📫 How to reach me : This is my email address : navid_ghanian@yahoo.com
 
